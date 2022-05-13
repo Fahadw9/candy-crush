@@ -1,12 +1,12 @@
-#Candy-Crush-In-Assembly
+# Candy-Crush-In-Assembly
 Candy Crush is a classic hit game where your goal is to match candies of same colour to score points.
 
 For my Assembly language course, i decided, alongside my fellow programming Muhammad Hassaan Tahir, to recreate this game in assembly language so that we can have a better understanding of graphics processing and register handling in assembly language.
 
-#Setting-up-an-emulator
+# Setting-up-an-emulator
 This game was developed in DOSBox, an x86 emulator with DOS so head on over to https://www.dosbox.com/download.php?main=1 to download the emulator or run any other x86 dos emulator.
 
-#Compiling-and-executing
+# Compiling-and-executing
 Firsty download the .asm file provided and open up the dosbox terminal.
 Then copy the commands and replace the paranthesis {} with your file path
 
